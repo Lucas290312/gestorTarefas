@@ -54,7 +54,9 @@ export class TaskListComponent {
 
     }
     else {
+
       this.tasks = this.taskService.getTasks();
+      
     }
 
   }
