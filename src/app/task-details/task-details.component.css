@@ -21,7 +21,7 @@ textarea {
 .save-button {
     margin-right: 10px;
     background-color: var(--color-blue-1);
-    padding: auto;
+    padding: 11px;
     border-radius: 5px;
     color: #fff;
     cursor: pointer;
